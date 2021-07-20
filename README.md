@@ -7,9 +7,9 @@ Blender is the free and open source 3D creation suite. It supports the entirety 
 <div align="center">
   <a href="https://github.com/m-aze/3dmodeling-hobby">
     <img alt="Logo" src="https://github.com/m-aze/3dmodeling-hobby/blob/main/bed%20bed.png" width="300"/>
-    <img alt="Logo" src="https://github.com/m-aze/3dmodeling-hobby/blob/main/grass%20bed.png" width="300"/>
+    <img alt="Logo" src="https://github.com/m-aze/3dmodeling-hobby/blob/main/grass%20bed.png" width="600"/>
     <img alt="Logo" src="https://github.com/m-aze/3dmodeling-hobby/blob/main/grass%20grass.png" width="300"/>
-    <img alt="Logo" src="https://github.com/m-aze/3dmodeling-hobby/blob/main/sand%20sand.png" width="300"/>
+    <img alt="Logo" src="https://github.com/m-aze/3dmodeling-hobby/blob/main/sand%20sand.png" width="650"/>
   </a>
   <h1>Welcome to the 3D Maze</h1>
   <h3> All 3D modeling work found here </h3>
