@@ -1,4 +1,5 @@
-  <h1>Welcome to the 3D Maze</h1>
+ <div align="center">
+ <h1>Welcome to the 3D Maze</h1>
   <h3> All 3D modeling work found here </h3>
 
   <h4>In progress...</h4>
