@@ -17,3 +17,4 @@ Blender is the free and open source 3D creation suite. It supports the entirety 
     <img alt="Logo" src="https://github.com/m-aze/3dmodeling-hobby/blob/main/grass%20grass.png" width="300"/>
     <img alt="Logo" src="https://github.com/m-aze/3dmodeling-hobby/blob/main/sand%20sand.png" width="650"/>
   </a>
+</div>
